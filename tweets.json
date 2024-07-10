@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "created_at": "2024-07-10T08:30:00Z",
+    "user": {
+      "id": 101,
+      "username": "user1"
+    },
+    "text": "Excited to start my new project with PySpark! #DataScience #PySpark"
+  },
+  {
+    "id": 2,
+    "created_at": "2024-07-10T09:15:00Z",
+    "user": {
+      "id": 102,
+      "username": "user2"
+    },
+    "text": "Just finished an amazing tutorial on PySpark. It's so powerful!"
+  },
+  {
+    "id": 3,
+    "created_at": "2024-07-10T10:00:00Z",
+    "user": {
+      "id": 103,
+      "username": "user3"
+    },
+    "text": "PySpark makes big data processing fun and efficient."
+  },
+  {
+    "id": 4,
+    "created_at": "2024-07-10T11:45:00Z",
+    "user": {
+      "id": 104,
+      "username": "user4"
+    },
+    "text": "Struggling a bit with PySpark's streaming API. Any tips?"
+  },
+  {
+    "id": 5,
+    "created_at": "2024-07-10T12:30:00Z",
+    "user": {
+      "id": 105,
+      "username": "user5"
+    },
+    "text": "Analyzing social media data with PySpark today. #DataAnalytics"
+  }
+]
